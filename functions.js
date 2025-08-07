@@ -1,5 +1,7 @@
-function great(name) {
+function greet(name) {
     return `Hello, ${name}!`;
 }
 
-console.log(great("Jay")); // Outputs: Hello, Jay!
+console.log(greet("Jay")); // Outputs: Hello, Jay!
+
+const greet = (name) => "Hello, ${name}!";
