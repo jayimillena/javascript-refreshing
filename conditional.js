@@ -5,3 +5,5 @@ if (age >= 18) {
 } else {
     console.log("You are a minor.");
 }
+
+let result = age >= 18 ? "Adult" : "Minor";
