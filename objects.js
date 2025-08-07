@@ -7,4 +7,4 @@ let user = {
 };
 
 console.log(user.name);         // Accessing the name property of the user object: Jay
-console.log(user.greet());      // Accessing the greet method of the user object: Hello!
+console.log(user.greet());      // Accessing the greet method of the user object: Hello!git
